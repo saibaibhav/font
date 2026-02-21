@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Comfortaa';
+	src: url(https://dgbooky.tech/assets/fonts/Comfortaa-ca6c7ae0db8377dfc26448e2c3b179e6.woff2) format('woff2'),
+	url(https://dgbooky.tech/assets/fonts/Comfortaa-3a0223f8e523692f03de0e73a62f16f1.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
